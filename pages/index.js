@@ -30,8 +30,9 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the standard dummy text
+            Passionate about programming and crafting dynamic user experiences.
+            Love exploring frontend technologies, problem-solving, and building
+            interactive applications. 🚀
           </motion.p>
           <div className="flex justify-center xl:hidden">
             <ProjectsBtn />
@@ -49,7 +50,7 @@ const Home = () => {
       </div>
       <div className="w-[1200px] h-full absolute right-0 bottom-0">
         <div className="bg-none xl:bg-explosion xl:bg-cover xl:bg-right xl:bg-no-repeat w-full h-full absolute mix-blend-color-dodge translate-z-0"></div>
-        <div>Particles</div>
+        <ParticlesContainer />
         <motion.div
           variants={fadeIn("up", 0.5)}
           initial="hidden"
