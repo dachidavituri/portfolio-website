@@ -6,12 +6,16 @@ const Socials = () => {
       <Link
         className="hover:text-accent transition-all duration-300"
         href={"https://www.linkedin.com/in/dachi-davituri-9692a8252/"}
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <FaLinkedin />
       </Link>
       <Link
         className="hover:text-accent transition-all duration-300"
         href={"https://github.com/dachidavituri"}
+        target="_blank"
+        rel="noopener noreferrer"
       >
         <FaGithub />
       </Link>
