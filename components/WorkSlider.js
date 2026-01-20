@@ -5,6 +5,11 @@ const workSlides = {
       images: [
         {
           title: "title",
+          path: "/movie-9pvmdtvz4cb0xl37.jpg",
+          link: "https://movie-app-seven-lyart.vercel.app/ka/movies/1220564",
+        },
+        {
+          title: "title",
           path: "/vnhorbifareii6uedrt4.webp",
           link: "https://dachidavituri.github.io/github-search-app/",
         },
@@ -17,12 +22,6 @@ const workSlides = {
           title: "title",
           path: "/nvjjyhvhqfwnjseojdgg.webp",
           link: "https://dachidavituri.github.io/Password-generator/",
-        },
-
-        {
-          title: "title",
-          path: "/rhg8wnn0jawmcfq3vta1.webp",
-          link: "https://dachidavituri.github.io/clock-app/",
         },
       ],
     },
@@ -42,6 +41,11 @@ const workSlides = {
           title: "title",
           path: "/so0b0hpmowz5ujjwbhkp.webp",
           link: "https://dachidavituri.github.io/tip-calculator/",
+        },
+        {
+          title: "title",
+          path: "/rhg8wnn0jawmcfq3vta1.webp",
+          link: "https://dachidavituri.github.io/clock-app/",
         },
       ],
     },
