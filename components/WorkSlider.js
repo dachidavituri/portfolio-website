@@ -10,8 +10,8 @@ const workSlides = {
         },
         {
           title: "title",
-          path: "/vnhorbifareii6uedrt4.webp",
-          link: "https://dachidavituri.github.io/github-search-app/",
+          path: "/Product_store_thumnail.png",
+          link: "https://pern-product-store-2s39.onrender.com/",
         },
         {
           title: "title",
@@ -42,6 +42,15 @@ const workSlides = {
           path: "/so0b0hpmowz5ujjwbhkp.webp",
           link: "https://dachidavituri.github.io/tip-calculator/",
         },
+        {
+          title: "title",
+          path: "/vnhorbifareii6uedrt4.webp",
+          link: "https://dachidavituri.github.io/github-search-app/",
+        },
+      ],
+    },
+    {
+      images: [
         {
           title: "title",
           path: "/rhg8wnn0jawmcfq3vta1.webp",
