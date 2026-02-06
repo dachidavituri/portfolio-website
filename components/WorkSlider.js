@@ -5,6 +5,11 @@ const workSlides = {
       images: [
         {
           title: "title",
+          path: "/The wild oasis.png",
+          link: "https://the-wild-oasis-beta-sandy.vercel.app/",
+        },
+        {
+          title: "title",
           path: "/movie-9pvmdtvz4cb0xl37.jpg",
           link: "https://movie-app-seven-lyart.vercel.app/ka/movies/1220564",
         },
@@ -18,15 +23,15 @@ const workSlides = {
           path: "/Screenshot 2025-02-27 214830.png",
           link: "https://my-travel-six.vercel.app/ka/home",
         },
+      ],
+    },
+    {
+      images: [
         {
           title: "title",
           path: "/nvjjyhvhqfwnjseojdgg.webp",
           link: "https://dachidavituri.github.io/Password-generator/",
         },
-      ],
-    },
-    {
-      images: [
         {
           title: "title",
           path: "/txnhbxbvi4zqxxcqmrwq.webp",
@@ -36,11 +41,6 @@ const workSlides = {
           title: "title",
           path: "/mnmpkjsbvur3xvrydf66.webp",
           link: "https://dachidavituri.github.io/sign-up/",
-        },
-        {
-          title: "title",
-          path: "/so0b0hpmowz5ujjwbhkp.webp",
-          link: "https://dachidavituri.github.io/tip-calculator/",
         },
         {
           title: "title",
@@ -55,6 +55,11 @@ const workSlides = {
           title: "title",
           path: "/rhg8wnn0jawmcfq3vta1.webp",
           link: "https://dachidavituri.github.io/clock-app/",
+        },
+        {
+          title: "title",
+          path: "/so0b0hpmowz5ujjwbhkp.webp",
+          link: "https://dachidavituri.github.io/tip-calculator/",
         },
       ],
     },
